@@ -26,7 +26,7 @@ pip install rich
 
 pip install cython
 
-git clone https://github.com/Sabbir-hasan-2
+git clone https://github.com/Sabbir-hasan-2https://github.com/Sabbir-hasan-2/SABBIR-2.git
 
 cd SABBIR-2
 
